@@ -4,5 +4,5 @@ window.TRADE_CONFIG = {
   supabaseUrl: "https://preygrrmobnclvqoxgkc.supabase.co",
   supabaseKey: "sb_publishable_0J1iJDt4MyObWFCXEKrhOg_-8Zf8lAR",
   loginEmail: "owner@stockstrategy.local",
-  functionName: "market-data"
+  functionName: "super-function"
 };
